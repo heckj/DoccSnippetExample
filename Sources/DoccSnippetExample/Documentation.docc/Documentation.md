@@ -11,3 +11,4 @@ The only excuse for its existence is to experiment and learn about using snippet
 ### All The Things
 
 - ``DoccSnippetExample/DoccSnippetExample``
+- <doc:AnArticle>
